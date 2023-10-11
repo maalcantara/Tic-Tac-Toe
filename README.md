@@ -6,9 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ❌⭕A simple Tic Tac Toe game implemented with React, featuring game logic, user interface, and CSS hover effects.
 
-## Demo
-
-✖️⭕You can play the game live [here](#link-to-live-demo).
 
 ## Description
 
